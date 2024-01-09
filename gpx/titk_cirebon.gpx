@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx
+ version="1.1"
+ creator="Global Mapper - http://www.globalmapper.com"
+ xmlns:globalmapper="https://www.bluemarblegeo.com/globalmapper"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <metadata>
+ </metadata>
+<wpt lat="-6.73292385" lon="108.57637069">
+ <ele>0</ele>
+ <name>Unknown Point Feature</name>
+ <desc>Unknown Point Feature</desc>
+ <sym>DOT_CUSTOM_3_176_88_40</sym>
+</wpt>
+<wpt lat="-6.69905882" lon="108.56028713">
+ <ele>0</ele>
+ <name>Unknown Point Feature</name>
+ <desc>Unknown Point Feature</desc>
+ <sym>DOT_CUSTOM_3_176_88_40</sym>
+</wpt>
+<wpt lat="-6.73156138" lon="108.55040386">
+ <ele>0</ele>
+ <name>Unknown Point Feature</name>
+ <desc>Unknown Point Feature</desc>
+ <sym>DOT_CUSTOM_3_176_88_40</sym>
+</wpt>
+<wpt lat="-6.72957910" lon="108.56556466">
+ <ele>0</ele>
+ <name>Unknown Point Feature</name>
+ <desc>Unknown Point Feature</desc>
+ <sym>DOT_CUSTOM_3_176_88_40</sym>
+</wpt>
+<wpt lat="-6.73251640" lon="108.54515855">
+ <ele>0</ele>
+ <name>Unknown Point Feature</name>
+ <desc>Unknown Point Feature</desc>
+ <sym>DOT_CUSTOM_3_176_88_40</sym>
+</wpt>
+<wpt lat="-6.74540187" lon="108.54923270">
+ <ele>0</ele>
+ <name>Unknown Point Feature</name>
+ <desc>Unknown Point Feature</desc>
+ <sym>DOT_CUSTOM_3_176_88_40</sym>
+</wpt>
+<wpt lat="-6.72252180" lon="108.56001477">
+ <ele>0</ele>
+ <name>Unknown Point Feature</name>
+ <desc>Unknown Point Feature</desc>
+ <sym>DOT_CUSTOM_3_176_88_40</sym>
+</wpt>
+<wpt lat="-6.70264020" lon="108.55637961">
+ <ele>0</ele>
+ <name>Unknown Point Feature</name>
+ <desc>Unknown Point Feature</desc>
+ <sym>DOT_CUSTOM_3_176_88_40</sym>
+</wpt>
+<wpt lat="-6.72765499" lon="108.56537497">
+ <ele>0</ele>
+ <name>Unknown Point Feature</name>
+ <desc>Unknown Point Feature</desc>
+ <sym>DOT_CUSTOM_3_176_88_40</sym>
+</wpt>
+<wpt lat="-6.75500609" lon="108.54958302">
+ <ele>0</ele>
+ <name>Unknown Point Feature</name>
+ <desc>Unknown Point Feature</desc>
+ <sym>DOT_CUSTOM_3_176_88_40</sym>
+</wpt>
+<wpt lat="-6.77368249" lon="108.53775076">
+ <ele>0</ele>
+ <name>Unknown Point Feature</name>
+ <desc>Unknown Point Feature</desc>
+ <sym>DOT_CUSTOM_3_176_88_40</sym>
+</wpt>
+ <extensions>
+ </extensions>
+</gpx>
